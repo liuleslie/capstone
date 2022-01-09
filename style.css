@@ -40,6 +40,9 @@ div#webrefs {
 	padding: 0;
 }
 
+ul {
+	border-bottom: 1px black solid;
+}
 
 
 div.category,div.column,div.row {
