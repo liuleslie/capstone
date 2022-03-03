@@ -49,8 +49,18 @@ div.category,div.column,div.row {
 	margin-bottom: 0;
 }
 
-img {
+
+/*img {
 	width: 100%;
+}*/
+
+/*img {
+	display: block;
+	width: 50%;
+}*/
+
+.gallery {
+	border: 1px black dotted;
 }
 
 
